@@ -1,0 +1,15 @@
+Input:	GGGGCCACTAGGGACAGGATTGG
+PAM:	NGG
+Target site length:	20
+Target site 5' limitation:	NN
+Target site 3' limitation:	NN
+Core length:	12
+Core MM:	2
+Total MM:	5
+
+T1	GGGGCCACTAGGGACAGGATTGG	1000	CRISPRater score	0.664180495
+Oligo fwd	TAGGGGCCACTAGGGACAGGAT
+Oligo rev	AAACATCCTGTCCCTAGTGGCC
+Chromosome	start	end	strand	MM	target_seq	PAM	alignment	distance	position	gene name	gene id
+1	1	23	+	0	GGGGCCACTAGGGACAGGAT	TGG	||||||||[||||||||||||]PAM	NA	Intergenic	NA	NA
+
